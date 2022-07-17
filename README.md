@@ -2,7 +2,7 @@
 <p align="center">Module #13 - Object-Relational Mapping (ORM)</p>
 
 ## Description
-This is a portfolio of some of my work I created while attending U of T SCS Coding Bootcamp. This application was created by using the React library.
+
 
 ## Built With:
 * JavaScript
