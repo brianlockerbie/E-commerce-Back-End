@@ -29,7 +29,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!tagData) {
-      res.status(404).json({ message: 'No categoryu found with this id!' });
+      res.status(404).json({ message: 'No category found with this id!' });
       return;
     }
 
@@ -65,7 +65,7 @@ router.put('/:id', async (req, res) => {
   }
 });
 
-router.delete('/:id', (req, res) => {
+router.delete('/:id', async (req, res) => {
   // delete on tag by its `id` value
   try {
     const tagData = await Tag.destroy({
