@@ -2,16 +2,20 @@
 <p align="center">Module #13 - Object-Relational Mapping (ORM)</p>
 
 ## Description
-
+This is a node.js backend part of an application for an internet retail e-commerce website. It uses Sequelize to interact with the MySQL database.
 
 ## Built With:
 * JavaScript
+* Mysql2
+* Sequelize
+* Express
 
 
 ## Installation
-
+Run npm install to install the required dependencies: dotenv, express, mysql2 & sequelize.
 
 ## Usage
+Watch walkthrough video: 
 
 
 ## User Story
