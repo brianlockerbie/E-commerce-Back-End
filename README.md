@@ -15,7 +15,7 @@ This is a node.js backend part of an application for an internet retail e-commer
 Run npm install to install the required dependencies: dotenv, express, mysql2 & sequelize.
 
 ## Usage
-Watch walkthrough video: 
+Watch walkthrough video: https://drive.google.com/file/d/1kL4CSc1un_3ATrsHeCKUAsGDcc0isGmO/view
 
 
 ## User Story
