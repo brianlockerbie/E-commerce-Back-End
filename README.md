@@ -39,3 +39,6 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 ## Screenshots
+<img src="assets/e-commerce-screenshot.png">
+<img src="assets/e-commerce-screenshot1.png">
+<img src="assets/e-commerce-screenshot2.png">
